@@ -138,6 +138,6 @@ Logistic Regression was selected as the final model because it achieved strong r
 └── data/
 ---
 
-Author Gelareh Eghbalikalhor 
+Author: Gelareh Eghbalikalhor, 
 Data Science Portfolio Project
 
